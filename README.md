@@ -1,6 +1,4 @@
-# SpringK8S
-
-# Spring K8s Demo  
+# Spring K8s
 Aplicatie demo realizată pentru a demonstra containerizarea și deploy-ul unei aplicații Spring Boot folosind Docker și Kubernetes (Minikube).
 
 ---
